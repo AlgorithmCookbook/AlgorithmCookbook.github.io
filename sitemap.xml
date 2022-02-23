@@ -2,11 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/docs/example/</loc>
+    <loc>http://example.org/docs/1-overview/table-of-contents/with-toc/</loc>
   </url><url>
-    <loc>http://example.org/docs/example/table-of-contents/with-toc/</loc>
+    <loc>http://example.org/docs/1-overview/</loc>
   </url><url>
-    <loc>http://example.org/docs/example/table-of-contents/without-toc/</loc>
+    <loc>http://example.org/docs/1-overview/table-of-contents/without-toc/</loc>
+  </url><url>
+    <loc>http://example.org/docs/2-topics/</loc>
   </url><url>
     <loc>http://example.org/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -14,9 +16,9 @@
     <loc>http://example.org/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/docs/example/table-of-contents/</loc>
+    <loc>http://example.org/docs/1-overview/table-of-contents/</loc>
   </url><url>
-    <loc>http://example.org/docs/example/collapsed/</loc>
+    <loc>http://example.org/docs/1-overview/collapsed/</loc>
   </url><url>
     <loc>http://example.org/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -60,35 +62,33 @@
     <loc>http://example.org/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/docs/example/collapsed/3rd-level/4th-level/</loc>
+    <loc>http://example.org/docs/1-overview/collapsed/3rd-level/4th-level/</loc>
   </url><url>
-    <loc>http://example.org/docs/example/collapsed/3rd-level/</loc>
+    <loc>http://example.org/docs/1-overview/collapsed/3rd-level/</loc>
   </url><url>
-    <loc>http://example.org/docs/example/hidden/</loc>
+    <loc>http://example.org/docs/1-overview/hidden/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/</loc>
+    <loc>http://example.org/docs/2-topics/buttons/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/buttons/</loc>
+    <loc>http://example.org/docs/2-topics/columns/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/columns/</loc>
+    <loc>http://example.org/docs/2-topics/details/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/details/</loc>
+    <loc>http://example.org/docs/2-topics/expand/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/expand/</loc>
+    <loc>http://example.org/docs/2-topics/hints/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/hints/</loc>
+    <loc>http://example.org/docs/2-topics/katex/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/katex/</loc>
+    <loc>http://example.org/docs/2-topics/mermaid/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/mermaid/</loc>
+    <loc>http://example.org/docs/2-topics/section/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/section/</loc>
+    <loc>http://example.org/docs/2-topics/section/first-page/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/section/first-page/</loc>
+    <loc>http://example.org/docs/2-topics/section/second-page/</loc>
   </url><url>
-    <loc>http://example.org/docs/shortcodes/section/second-page/</loc>
-  </url><url>
-    <loc>http://example.org/docs/shortcodes/tabs/</loc>
+    <loc>http://example.org/docs/2-topics/tabs/</loc>
   </url><url>
     <loc>http://example.org/docs/</loc>
   </url>
